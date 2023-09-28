@@ -1,6 +1,6 @@
 # decoder-and-encoder
 ## this program encode text and decode text
-1 --> encode ****
+1 --> encode.
 2 ---> decod ****
 3 ---> exist ****
 
