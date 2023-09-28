@@ -4,7 +4,8 @@
 2 ---> decod
 3 ---> exist
 
-### input ---> hi mohammad
+### encode
+input ---> hi mohammad
 output = jk"oqjcoocf
 
 
